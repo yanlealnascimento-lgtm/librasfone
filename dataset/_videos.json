@@ -1,0 +1,1870 @@
+{
+  "_outro/librasse_agua.mp4": {
+    "hash": "4b7fdbfddb905b43",
+    "files": [
+      "_outro/_outro_librasseagua157a_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        2.5692333333333335
+      ]
+    ]
+  },
+  "_outro/librasse_amigo.mp4": {
+    "hash": "08de839dcce2c385",
+    "files": [
+      "_outro/_outro_librasseamigo5661_0001.npy"
+    ],
+    "segments": [
+      [
+        0.4337666666666667,
+        2.769433333333333
+      ]
+    ]
+  },
+  "_outro/librasse_amor.mp4": {
+    "hash": "ab544cb97072b88d",
+    "files": [
+      "_outro/_outro_librasseamorcb8a_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.6359666666666666
+      ]
+    ]
+  },
+  "_outro/librasse_aprender.mp4": {
+    "hash": "9f9d0081ddb47dc2",
+    "files": [
+      "_outro/_outro_librasseaprender676a_0001.npy"
+    ],
+    "segments": [
+      [
+        0.23356666666666667,
+        3.4034
+      ]
+    ]
+  },
+  "_outro/librasse_azul.mp4": {
+    "hash": "4b372359b7d8d7e8",
+    "files": [
+      "_outro/_outro_librasseazul675f_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.9362666666666666
+      ]
+    ]
+  },
+  "_outro/librasse_banheiro.mp4": {
+    "hash": "e175976b52f5ec96",
+    "files": [
+      "_outro/_outro_librassebanheiro9ace_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        2.6359666666666666
+      ]
+    ]
+  },
+  "_outro/librasse_cafe.mp4": {
+    "hash": "f8d10cf6820a4b2f",
+    "files": [
+      "_outro/_outro_librassecafe254c_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        3.036366666666667
+      ]
+    ]
+  },
+  "_outro/librasse_cansado.mp4": {
+    "hash": "8f139fc1c3f6e553",
+    "files": [
+      "_outro/_outro_librassecansadof594_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        2.0687333333333333
+      ]
+    ]
+  },
+  "_outro/librasse_casa.mp4": {
+    "hash": "cafc181a5167f4a3",
+    "files": [
+      "_outro/_outro_librassecasa7275_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.8361666666666667
+      ]
+    ]
+  },
+  "_outro/librasse_comer.mp4": {
+    "hash": "16a5935a45e5de2d",
+    "files": [
+      "_outro/_outro_librassecomercd1f_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        2.9362666666666666
+      ]
+    ]
+  },
+  "_outro/librasse_correr.mp4": {
+    "hash": "bbabd16ab6002b11",
+    "files": [
+      "_outro/_outro_librassecorrere481_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        3.7037
+      ]
+    ]
+  },
+  "_outro/librasse_dinheiro.mp4": {
+    "hash": "a6a7f0672b3357bd",
+    "files": [
+      "_outro/_outro_librassedinheiro2977_0001.npy"
+    ],
+    "segments": [
+      [
+        0.8341666666666667,
+        3.4701333333333335
+      ]
+    ]
+  },
+  "_outro/librasse_escola.mp4": {
+    "hash": "ded52e6965233201",
+    "files": [
+      "_outro/_outro_librasseescolad171_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.9696333333333333
+      ]
+    ]
+  },
+  "_outro/librasse_estudar.mp4": {
+    "hash": "1525da7b981180d2",
+    "files": [
+      "_outro/_outro_librasseestudar756c_0001.npy"
+    ],
+    "segments": [
+      [
+        0.06673333333333334,
+        3.636966666666667
+      ]
+    ]
+  },
+  "_outro/librasse_familia.mp4": {
+    "hash": "6d653d68e534c346",
+    "files": [
+      "_outro/_outro_librassefamilia9028_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        2.9696333333333333
+      ]
+    ]
+  },
+  "_outro/librasse_feliz.mp4": {
+    "hash": "17d4c71035a4eaf4",
+    "files": [
+      "_outro/_outro_librassefeliz38dd_0001.npy",
+      "_outro/_outro_librassefeliz38dd_0002.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        1.7350666666666668
+      ],
+      [
+        1.8685333333333334,
+        2.5358666666666667
+      ]
+    ]
+  },
+  "_outro/librasse_gostar.mp4": {
+    "hash": "b2cd20db50698ba3",
+    "files": [
+      "_outro/_outro_librassegostar4e84_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.8038
+      ]
+    ]
+  },
+  "_outro/librasse_livro.mp4": {
+    "hash": "26db9653980f7f94",
+    "files": [
+      "_outro/_outro_librasselivroc2b5_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.736066666666667
+      ]
+    ]
+  },
+  "_outro/librasse_medo.mp4": {
+    "hash": "5241f9479be4d018",
+    "files": [
+      "_outro/_outro_librassemedo7782_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.736066666666667
+      ]
+    ]
+  },
+  "_outro/librasse_morar.mp4": {
+    "hash": "bc1d5b230a8169d0",
+    "files": [
+      "_outro/_outro_librassemorar575b_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.9696333333333333
+      ]
+    ]
+  },
+  "_outro/librasse_musica.mp4": {
+    "hash": "d42bc44ab33780fc",
+    "files": [
+      "_outro/_outro_librassemusicabfbb_0001.npy",
+      "_outro/_outro_librassemusicabfbb_0002.npy",
+      "_outro/_outro_librassemusicabfbb_0003.npy"
+    ],
+    "segments": [
+      [
+        0.23356666666666667,
+        0.7674333333333333
+      ],
+      [
+        0.8008000000000001,
+        1.8018
+      ],
+      [
+        1.8351666666666666,
+        3.4701333333333335
+      ]
+    ]
+  },
+  "_outro/librasse_pai.mp4": {
+    "hash": "3a98bfb704894e75",
+    "files": [
+      "_outro/_outro_librassepai2a67_0001.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        6.940266666666667
+      ]
+    ]
+  },
+  "_outro/librasse_parabens.mp4": {
+    "hash": "4027ccee85a6d201",
+    "files": [
+      "_outro/_outro_librasseparabens7edc_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        4.571233333333334
+      ]
+    ]
+  },
+  "_outro/librasse_professor.mp4": {
+    "hash": "2888ab3e8546e74d",
+    "files": [
+      "_outro/_outro_librasseprofessora16e_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        1.7684333333333333
+      ]
+    ]
+  },
+  "_outro/librasse_saudade.mp4": {
+    "hash": "51e92b02e99fccc3",
+    "files": [
+      "_outro/_outro_librassesaudade014c_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        3.4367666666666667
+      ]
+    ]
+  },
+  "_outro/librasse_surdo.mp4": {
+    "hash": "c2b3d4368af869ec",
+    "files": [
+      "_outro/_outro_librassesurdo46c3_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        3.069733333333333
+      ]
+    ]
+  },
+  "_outro/librasse_telefone.mp4": {
+    "hash": "54d3b5c9ee7ab75a",
+    "files": [
+      "_outro/_outro_librassetelefonef94c_0001.npy"
+    ],
+    "segments": [
+      [
+        0.6339666666666667,
+        6.673333333333334
+      ]
+    ]
+  },
+  "_outro/librasse_trabalho.mp4": {
+    "hash": "6941b730f3d8ff7e",
+    "files": [
+      "_outro/_outro_librassetrabalho9165_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        3.1698333333333335
+      ]
+    ]
+  },
+  "_outro/librasse_triste.mp4": {
+    "hash": "b46b19ca3adccf26",
+    "files": [
+      "_outro/_outro_librassetristeeabd_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        2.6693333333333333
+      ]
+    ]
+  },
+  "_outro/librasse_viajar.mp4": {
+    "hash": "76eec3821ca017d9",
+    "files": [
+      "_outro/_outro_librasseviajar7411_0001.npy",
+      "_outro/_outro_librasseviajar7411_0002.npy"
+    ],
+    "segments": [
+      [
+        0.5338666666666667,
+        3.2699333333333334
+      ],
+      [
+        3.7370666666666668,
+        7.073733333333333
+      ]
+    ]
+  },
+  "ajuda/librasse.mp4": {
+    "hash": "909912da9fda92ee",
+    "files": [
+      "ajuda/ajuda_librassea3a2_0001.npy",
+      "ajuda/ajuda_librassea3a2_0002.npy"
+    ],
+    "segments": [
+      [
+        0.4337666666666667,
+        4.671333333333333
+      ],
+      [
+        5.338666666666667,
+        9.376033333333334
+      ]
+    ]
+  },
+  "desculpa/librasse.mp4": {
+    "hash": "e76218b0fea33bd9",
+    "files": [
+      "desculpa/desculpa_librasse8c94_0001.npy"
+    ],
+    "segments": [
+      [
+        0.23356666666666667,
+        3.636966666666667
+      ]
+    ]
+  },
+  "eu/librasse.mp4": {
+    "hash": "f5db7e87a3cdf0bb",
+    "files": [
+      "eu/eu_librasse97b4_0001.npy"
+    ],
+    "segments": [
+      [
+        0.26693333333333336,
+        3.4367666666666667
+      ]
+    ]
+  },
+  "falar/librasse.mp4": {
+    "hash": "584375e027cae693",
+    "files": [
+      "falar/falar_librassef2ca_0001.npy"
+    ],
+    "segments": [
+      [
+        0.8675333333333334,
+        9.209200000000001
+      ]
+    ]
+  },
+  "nao/librasse.mp4": {
+    "hash": "e2e0a18459d4712e",
+    "files": [
+      "nao/nao_librassec3d7_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        3.8371666666666666
+      ]
+    ]
+  },
+  "obrigado/librasse.mp4": {
+    "hash": "31dd41870fac6570",
+    "files": [
+      "obrigado/obrigado_librasse8220_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        2.168833333333333
+      ]
+    ]
+  },
+  "ola/librasse.mp4": {
+    "hash": "9d0762a26ab89ad7",
+    "files": [
+      "ola/ola_librasseada9_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.4701333333333335
+      ]
+    ]
+  },
+  "sim/librasse.mp4": {
+    "hash": "830dff973863ee3d",
+    "files": [
+      "sim/sim_librassee457_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.5368666666666666
+      ]
+    ]
+  },
+  "tchau/librasse.mp4": {
+    "hash": "3c0beeec05f458d8",
+    "files": [
+      "tchau/tchau_librasse11c4_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        3.8705333333333334
+      ]
+    ]
+  },
+  "voce/librasse.mp4": {
+    "hash": "4ce5cf44fe4a679f",
+    "files": [
+      "voce/voce_librasseb0f1_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        3.370033333333333
+      ]
+    ]
+  },
+  "_outro/librasse_abelha.mp4": {
+    "hash": "32ce28804d7cfde1",
+    "files": [
+      "_outro/_outro_librasseabelha94b2_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.937266666666667
+      ]
+    ]
+  },
+  "_outro/librasse_alagoas.mp4": {
+    "hash": "2e1afe338547c7e8",
+    "files": [
+      "_outro/_outro_librassealagoas334a_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        4.070733333333333
+      ]
+    ]
+  },
+  "_outro/librasse_alegre.mp4": {
+    "hash": "a73380f92a83fe6b",
+    "files": [
+      "_outro/_outro_librassealegre8406_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        3.636966666666667
+      ]
+    ]
+  },
+  "_outro/librasse_amapa.mp4": {
+    "hash": "f56905a4d0ecabc5",
+    "files": [
+      "_outro/_outro_librasseamapa325d_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        4.637966666666666
+      ]
+    ]
+  },
+  "_outro/librasse_amarelo.mp4": {
+    "hash": "dd20f5352ed5fada",
+    "files": [
+      "_outro/_outro_librasseamarelod562_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.8705333333333334
+      ]
+    ]
+  },
+  "_outro/librasse_ansioso.mp4": {
+    "hash": "6fa805c541963129",
+    "files": [
+      "_outro/_outro_librasseansioso7758_0001.npy"
+    ],
+    "segments": [
+      [
+        0.8675333333333334,
+        7.4074
+      ]
+    ]
+  },
+  "_outro/librasse_arroz.mp4": {
+    "hash": "0555cc7f44832b3a",
+    "files": [
+      "_outro/_outro_librassearroz4db9_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        2.7027
+      ]
+    ]
+  },
+  "_outro/librasse_athletico-paranaense.mp4": {
+    "hash": "c7e9720609735c57",
+    "files": [
+      "_outro/_outro_librasseathleticoparanaense8f99_0001.npy"
+    ],
+    "segments": [
+      [
+        0.23356666666666667,
+        3.1364666666666667
+      ]
+    ]
+  },
+  "_outro/librasse_atletico-mineiro.mp4": {
+    "hash": "08b4d419c47b8cb7",
+    "files": [
+      "_outro/_outro_librasseatleticomineiro203d_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.9029000000000003
+      ]
+    ]
+  },
+  "_outro/librasse_avai.mp4": {
+    "hash": "5cb8c1886fabf7ed",
+    "files": [
+      "_outro/_outro_librasseavai0538_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        3.1698333333333335
+      ]
+    ]
+  },
+  "_outro/librasse_bahia.mp4": {
+    "hash": "50ed0161036d1c19",
+    "files": [
+      "_outro/_outro_librassebahia5e00_0001.npy"
+    ],
+    "segments": [
+      [
+        0.23356666666666667,
+        4.371033333333333
+      ]
+    ]
+  },
+  "_outro/librasse_banana.mp4": {
+    "hash": "ee0d0853b6ff6651",
+    "files": [
+      "_outro/_outro_librassebananadd98_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.2699333333333334
+      ]
+    ]
+  },
+  "_outro/librasse_bebe.mp4": {
+    "hash": "ebce21bc9d6437b9",
+    "files": [
+      "_outro/_outro_librassebebe48f7_0001.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        4.2042
+      ]
+    ]
+  },
+  "_outro/librasse_boa-tarde.mp4": {
+    "hash": "9c09df73dc370f09",
+    "files": [
+      "_outro/_outro_librasseboatardee964_0001.npy",
+      "_outro/_outro_librasseboatardee964_0002.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        2.3690333333333333
+      ],
+      [
+        3.636966666666667,
+        7.8078
+      ]
+    ]
+  },
+  "_outro/librasse_borboleta.mp4": {
+    "hash": "8133b72e90f8f4ba",
+    "files": [
+      "_outro/_outro_librasseborboleta30b6_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        3.937266666666667
+      ]
+    ]
+  },
+  "_outro/librasse_cachorro.mp4": {
+    "hash": "52f07fe17a33c709",
+    "files": [
+      "_outro/_outro_librassecachorro1516_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        3.2032000000000003
+      ]
+    ]
+  },
+  "_outro/librasse_calmo.mp4": {
+    "hash": "f9cb108829489c14",
+    "files": [
+      "_outro/_outro_librassecalmof443_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        3.4701333333333335
+      ]
+    ]
+  },
+  "_outro/librasse_cama.mp4": {
+    "hash": "8635323dceaaf0eb",
+    "files": [
+      "_outro/_outro_librassecama5557_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.5025
+      ]
+    ]
+  },
+  "_outro/librasse_carro.mp4": {
+    "hash": "c8807f6875bebe10",
+    "files": [
+      "_outro/_outro_librassecarro1272_0001.npy"
+    ],
+    "segments": [
+      [
+        0.03336666666666667,
+        3.1031
+      ]
+    ]
+  },
+  "_outro/librasse_ceara-sporting-club.mp4": {
+    "hash": "8ee40e8a4272d8bb",
+    "files": [
+      "_outro/_outro_librassecearasportingclub38f0_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.1364666666666667
+      ]
+    ]
+  },
+  "_outro/librasse_ceara.mp4": {
+    "hash": "dabda0e7a9777f0c",
+    "files": [
+      "_outro/_outro_librassecearaf1e2_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        5.372033333333333
+      ]
+    ]
+  },
+  "_outro/librasse_cerveja.mp4": {
+    "hash": "303d568ffd635400",
+    "files": [
+      "_outro/_outro_librassecerveja4d8d_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.6359666666666666
+      ]
+    ]
+  },
+  "_outro/librasse_chapecoense.mp4": {
+    "hash": "eae0c0aeb3f57403",
+    "files": [
+      "_outro/_outro_librassechapecoensee0fa_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.3033
+      ]
+    ]
+  },
+  "_outro/librasse_cidade.mp4": {
+    "hash": "79967b3aee3ab56d",
+    "files": [
+      "_outro/_outro_librassecidade87eb_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.7370666666666668
+      ]
+    ]
+  },
+  "_outro/librasse_cobra.mp4": {
+    "hash": "b900d177caa7005f",
+    "files": [
+      "_outro/_outro_librassecobrafd10_0001.npy"
+    ],
+    "segments": [
+      [
+        0.26693333333333336,
+        7.307300000000001
+      ]
+    ]
+  },
+  "_outro/librasse_corinthians.mp4": {
+    "hash": "5c7896cb72437c37",
+    "files": [
+      "_outro/_outro_librassecorinthians1b36_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        5.271933333333333
+      ]
+    ]
+  },
+  "_outro/librasse_crianca.mp4": {
+    "hash": "a327ac00b04e4701",
+    "files": [
+      "_outro/_outro_librassecrianca0c54_0001.npy",
+      "_outro/_outro_librassecrianca0c54_0002.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        1.4347666666666667
+      ],
+      [
+        1.9352666666666667,
+        2.6359666666666666
+      ]
+    ]
+  },
+  "_outro/librasse_cruzeiro.mp4": {
+    "hash": "03a431c712471327",
+    "files": [
+      "_outro/_outro_librassecruzeiro0815_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        5.4054
+      ]
+    ]
+  },
+  "_outro/librasse_distrito-federal.mp4": {
+    "hash": "c824863d3e00d099",
+    "files": [
+      "_outro/_outro_librassedistritofederal66ed_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        3.069733333333333
+      ]
+    ]
+  },
+  "_outro/librasse_ele-ela.mp4": {
+    "hash": "978b2dbd0bd73d75",
+    "files": [
+      "_outro/_outro_librasseeleelafbfa_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        3.370033333333333
+      ]
+    ]
+  },
+  "_outro/librasse_elefante.mp4": {
+    "hash": "d47d71c1f29b8c47",
+    "files": [
+      "_outro/_outro_librasseelefante406b_0001.npy",
+      "_outro/_outro_librasseelefante406b_0002.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        1.4014
+      ],
+      [
+        1.4347666666666667,
+        3.6036
+      ]
+    ]
+  },
+  "_outro/librasse_ensinar.mp4": {
+    "hash": "deb24718d2ab467a",
+    "files": [
+      "_outro/_outro_librasseensinarb2ad_0001.npy"
+    ],
+    "segments": [
+      [
+        1.6349666666666667,
+        4.637966666666666
+      ]
+    ]
+  },
+  "_outro/librasse_esporte-clube-bahia.mp4": {
+    "hash": "ce7926dca70f6363",
+    "files": [
+      "_outro/_outro_librasseesporteclubebahia4ffe_0001.npy"
+    ],
+    "segments": [
+      [
+        0.33366666666666667,
+        3.003
+      ]
+    ]
+  },
+  "_outro/librasse_eu-te-amo.mp4": {
+    "hash": "96cc177dc82c45ed",
+    "files": [
+      "_outro/_outro_librasseeuteamoe563_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        2.435766666666667
+      ]
+    ]
+  },
+  "_outro/librasse_feijao.mp4": {
+    "hash": "5a0233dd7698be12",
+    "files": [
+      "_outro/_outro_librassefeijao26a6_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        3.069733333333333
+      ]
+    ]
+  },
+  "_outro/librasse_feliz-aniversario.mp4": {
+    "hash": "bfb54b1fc3060620",
+    "files": [
+      "_outro/_outro_librassefelizaniversariofa7e_0001.npy"
+    ],
+    "segments": [
+      [
+        0.23356666666666667,
+        4.571233333333334
+      ]
+    ]
+  },
+  "_outro/librasse_feliz-ano-novo.mp4": {
+    "hash": "a43af96b9965aee9",
+    "files": [
+      "_outro/_outro_librassefelizanonovob29f_0001.npy",
+      "_outro/_outro_librassefelizanonovob29f_0002.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        1.5348666666666666
+      ],
+      [
+        2.0353666666666665,
+        5.3053
+      ]
+    ]
+  },
+  "_outro/librasse_figueirense.mp4": {
+    "hash": "5a21320c4119e596",
+    "files": [
+      "_outro/_outro_librassefigueirense61ba_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        3.069733333333333
+      ]
+    ]
+  },
+  "_outro/librasse_filha.mp4": {
+    "hash": "f9b095c90cb2b21c",
+    "files": [
+      "_outro/_outro_librassefilha50b1_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.769433333333333
+      ]
+    ]
+  },
+  "_outro/librasse_filho.mp4": {
+    "hash": "19d6167c1988f275",
+    "files": [
+      "_outro/_outro_librassefilhoaa7a_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.9029000000000003
+      ]
+    ]
+  },
+  "_outro/librasse_flamengo.mp4": {
+    "hash": "d708e574883d6526",
+    "files": [
+      "_outro/_outro_librasseflamengo72a2_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        5.9059
+      ]
+    ]
+  },
+  "_outro/librasse_floresta.mp4": {
+    "hash": "c307cf55d3b424e3",
+    "files": [
+      "_outro/_outro_librassefloresta5080_0001.npy"
+    ],
+    "segments": [
+      [
+        0.03336666666666667,
+        3.2699333333333334
+      ]
+    ]
+  },
+  "_outro/librasse_fluminense.mp4": {
+    "hash": "b4fb0d4b3bd20952",
+    "files": [
+      "_outro/_outro_librassefluminensee1ea_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        6.3063
+      ]
+    ]
+  },
+  "_outro/librasse_fortaleza.mp4": {
+    "hash": "61a493078cbef570",
+    "files": [
+      "_outro/_outro_librassefortaleza617b_0001.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        2.5358666666666667
+      ]
+    ]
+  },
+  "_outro/librasse_frango.mp4": {
+    "hash": "77cebe766a9b2b87",
+    "files": [
+      "_outro/_outro_librassefrangoca13_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        2.769433333333333
+      ]
+    ]
+  },
+  "_outro/librasse_fruta.mp4": {
+    "hash": "0471cd21e99a45c6",
+    "files": [
+      "_outro/_outro_librassefrutafedb_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.8695333333333335
+      ]
+    ]
+  },
+  "_outro/librasse_gato.mp4": {
+    "hash": "f1853b3f041763ce",
+    "files": [
+      "_outro/_outro_librassegatob530_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.3033
+      ]
+    ]
+  },
+  "_outro/librasse_goias.mp4": {
+    "hash": "a9177a8625018d21",
+    "files": [
+      "_outro/_outro_librassegoiasa7da_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        4.437766666666667
+      ]
+    ]
+  },
+  "_outro/librasse_hospital.mp4": {
+    "hash": "4bbeb09e67fb09a6",
+    "files": [
+      "_outro/_outro_librassehospital0927_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        3.6703333333333332
+      ]
+    ]
+  },
+  "_outro/librasse_internacional.mp4": {
+    "hash": "90568c918b6dd186",
+    "files": [
+      "_outro/_outro_librasseinternacional3ca2_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        2.9696333333333333
+      ]
+    ]
+  },
+  "_outro/librasse_janela.mp4": {
+    "hash": "ab2145665633d774",
+    "files": [
+      "_outro/_outro_librassejanelaa420_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.370033333333333
+      ]
+    ]
+  },
+  "_outro/librasse_leao.mp4": {
+    "hash": "9477c4ae21e059a2",
+    "files": [
+      "_outro/_outro_librasseleao9bd5_0001.npy"
+    ],
+    "segments": [
+      [
+        1.9686333333333335,
+        7.4741333333333335
+      ]
+    ]
+  },
+  "_outro/librasse_leite.mp4": {
+    "hash": "911973e52ebe8cae",
+    "files": [
+      "_outro/_outro_librasseleite020f_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        3.069733333333333
+      ]
+    ]
+  },
+  "_outro/librasse_letra-b.mp4": {
+    "hash": "a8d89b3548e63aaa",
+    "files": [
+      "_outro/_outro_librasseletrab72be_0001.npy"
+    ],
+    "segments": [
+      [
+        0.3670333333333333,
+        2.168833333333333
+      ]
+    ]
+  },
+  "_outro/librasse_letra-c.mp4": {
+    "hash": "5e7cf0a7637d4aef",
+    "files": [
+      "_outro/_outro_librasseletracb3a8_0001.npy"
+    ],
+    "segments": [
+      [
+        0.6339666666666667,
+        2.135466666666667
+      ]
+    ]
+  },
+  "_outro/librasse_letra-d.mp4": {
+    "hash": "9e6b0da91311f179",
+    "files": [
+      "_outro/_outro_librasseletrad645a_0001.npy"
+    ],
+    "segments": [
+      [
+        1.5682333333333334,
+        4.1041
+      ]
+    ]
+  },
+  "_outro/librasse_letra-e.mp4": {
+    "hash": "423aadf04d1a3d7d",
+    "files": [
+      "_outro/_outro_librasseletrae30bc_0001.npy"
+    ],
+    "segments": [
+      [
+        2.0353666666666665,
+        4.5045
+      ]
+    ]
+  },
+  "_outro/librasse_letra-f.mp4": {
+    "hash": "bd2de3dee96f8a65",
+    "files": [
+      "_outro/_outro_librasseletrafd8cc_0001.npy"
+    ],
+    "segments": [
+      [
+        0.7674333333333333,
+        3.7704333333333335
+      ]
+    ]
+  },
+  "_outro/librasse_letra-g.mp4": {
+    "hash": "8b8f7ab3978833d2",
+    "files": [
+      "_outro/_outro_librasseletrag1256_0001.npy"
+    ],
+    "segments": [
+      [
+        0.26693333333333336,
+        2.8028
+      ]
+    ]
+  },
+  "_outro/librasse_letra-h.mp4": {
+    "hash": "cc9b29452710d9eb",
+    "files": [
+      "_outro/_outro_librasseletrahea05_0001.npy"
+    ],
+    "segments": [
+      [
+        1.2679333333333334,
+        5.071733333333333
+      ]
+    ]
+  },
+  "_outro/librasse_letra-i.mp4": {
+    "hash": "7609b417701dc34d",
+    "files": [
+      "_outro/_outro_librasseletraie995_0001.npy"
+    ],
+    "segments": [
+      [
+        0.8675333333333334,
+        3.636966666666667
+      ]
+    ]
+  },
+  "_outro/librasse_letra-j.mp4": {
+    "hash": "c571b39971223cf8",
+    "files": [
+      "_outro/_outro_librasseletraj7b0e_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        3.003
+      ]
+    ]
+  },
+  "_outro/librasse_letra-k.mp4": {
+    "hash": "b130f6f3fdd060ab",
+    "files": [
+      "_outro/_outro_librasseletrak87da_0001.npy"
+    ],
+    "segments": [
+      [
+        0.4337666666666667,
+        4.437766666666667
+      ]
+    ]
+  },
+  "_outro/librasse_letra-l.mp4": {
+    "hash": "9c92bb37e4d360ef",
+    "files": [
+      "_outro/_outro_librasseletral1c1b_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.6036
+      ]
+    ]
+  },
+  "_outro/librasse_letra-m.mp4": {
+    "hash": "5dc87a6ed54abbba",
+    "files": [
+      "_outro/_outro_librasseletram864b_0001.npy"
+    ],
+    "segments": [
+      [
+        0.3670333333333333,
+        3.4034
+      ]
+    ]
+  },
+  "_outro/librasse_letra-o.mp4": {
+    "hash": "8a7b931e3b21e387",
+    "files": [
+      "_outro/_outro_librasseletrao3c4c_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        2.9029000000000003
+      ]
+    ]
+  },
+  "_outro/librasse_letra-q.mp4": {
+    "hash": "93a0c19ce4c4c47a",
+    "files": [
+      "_outro/_outro_librasseletraq3032_0001.npy"
+    ],
+    "segments": [
+      [
+        1.0677333333333334,
+        3.9039
+      ]
+    ]
+  },
+  "_outro/librasse_letra-r.mp4": {
+    "hash": "82446e66ddec383c",
+    "files": [
+      "_outro/_outro_librasseletrar240d_0001.npy"
+    ],
+    "segments": [
+      [
+        0.23356666666666667,
+        2.9696333333333333
+      ]
+    ]
+  },
+  "_outro/librasse_letra-t.mp4": {
+    "hash": "6f33b8b11e4fa911",
+    "files": [
+      "_outro/_outro_librasseletrat6630_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        3.069733333333333
+      ]
+    ]
+  },
+  "_outro/librasse_letra-u.mp4": {
+    "hash": "0c0d035ef7446c21",
+    "files": [
+      "_outro/_outro_librasseletraue315_0001.npy"
+    ],
+    "segments": [
+      [
+        0.23356666666666667,
+        3.1364666666666667
+      ]
+    ]
+  },
+  "_outro/librasse_letra-v.mp4": {
+    "hash": "7eb1adde09bf5d45",
+    "files": [
+      "_outro/_outro_librasseletrav3bc1_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16683333333333333,
+        2.9362666666666666
+      ]
+    ]
+  },
+  "_outro/librasse_letra-w.mp4": {
+    "hash": "49fe82c50a824463",
+    "files": [
+      "_outro/_outro_librasseletrawb1e3_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        3.7037
+      ]
+    ]
+  },
+  "_outro/librasse_macaco.mp4": {
+    "hash": "b03620104036ba10",
+    "files": [
+      "_outro/_outro_librassemacaco7b6c_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.8371666666666666
+      ]
+    ]
+  },
+  "_outro/librasse_maranhao.mp4": {
+    "hash": "e70c22bfbc7f18f0",
+    "files": [
+      "_outro/_outro_librassemaranhao201c_0001.npy"
+    ],
+    "segments": [
+      [
+        0.26693333333333336,
+        3.5368666666666666
+      ]
+    ]
+  },
+  "_outro/librasse_marrom.mp4": {
+    "hash": "a13b6393d2fbc013",
+    "files": [
+      "_outro/_outro_librassemarromca28_0001.npy"
+    ],
+    "segments": [
+      [
+        0.46713333333333334,
+        3.8705333333333334
+      ]
+    ]
+  },
+  "_outro/librasse_mato-grosso-do-sul.mp4": {
+    "hash": "c07a8950baed3aa6",
+    "files": [
+      "_outro/_outro_librassematogrossodosul5efc_0001.npy"
+    ],
+    "segments": [
+      [
+        1.0010000000000001,
+        6.172833333333333
+      ]
+    ]
+  },
+  "_outro/librasse_medico.mp4": {
+    "hash": "c28722b0bab1e33b",
+    "files": [
+      "_outro/_outro_librassemedico8730_0001.npy"
+    ],
+    "segments": [
+      [
+        0.26693333333333336,
+        4.7047
+      ]
+    ]
+  },
+  "_outro/librasse_montanha.mp4": {
+    "hash": "fd86c6bba90161ad",
+    "files": [
+      "_outro/_outro_librassemontanhacb94_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        3.8705333333333334
+      ]
+    ]
+  },
+  "_outro/librasse_museu.mp4": {
+    "hash": "0dd34506a8390119",
+    "files": [
+      "_outro/_outro_librassemuseu0dca_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        3.1031
+      ]
+    ]
+  },
+  "_outro/librasse_olhar.mp4": {
+    "hash": "d74cb34d3c0759a7",
+    "files": [
+      "_outro/_outro_librasseolhar65b7_0001.npy",
+      "_outro/_outro_librasseolhar65b7_0002.npy"
+    ],
+    "segments": [
+      [
+        0.26693333333333336,
+        4.337666666666666
+      ],
+      [
+        5.2052000000000005,
+        8.375033333333333
+      ]
+    ]
+  },
+  "_outro/librasse_onibus.mp4": {
+    "hash": "f24398a49cf5ff4b",
+    "files": [
+      "_outro/_outro_librasseonibus8854_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        3.2699333333333334
+      ]
+    ]
+  },
+  "_outro/librasse_ouvinte.mp4": {
+    "hash": "7d954379981df9a8",
+    "files": [
+      "_outro/_outro_librasseouvintef691_0001.npy"
+    ],
+    "segments": [
+      [
+        0.10010000000000001,
+        3.2032000000000003
+      ]
+    ]
+  },
+  "_outro/librasse_palmeiras.mp4": {
+    "hash": "669d4a47b06068af",
+    "files": [
+      "_outro/_outro_librassepalmeiras6281_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        2.9696333333333333
+      ]
+    ]
+  },
+  "_outro/librasse_para.mp4": {
+    "hash": "42071c4b8a92a078",
+    "files": [
+      "_outro/_outro_librassepara92ce_0001.npy"
+    ],
+    "segments": [
+      [
+        1.4681333333333333,
+        6.740066666666666
+      ]
+    ]
+  },
+  "_outro/librasse_parana.mp4": {
+    "hash": "db9e3fd863189c2a",
+    "files": [
+      "_outro/_outro_librasseparanafa2a_0001.npy"
+    ],
+    "segments": [
+      [
+        0.33366666666666667,
+        7.9412666666666665
+      ]
+    ]
+  },
+  "_outro/librasse_passaro.mp4": {
+    "hash": "9d11296823c43258",
+    "files": [
+      "_outro/_outro_librassepassaro010d_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        7.9079
+      ]
+    ]
+  },
+  "_outro/librasse_peixe.mp4": {
+    "hash": "becb14bcafdc2857",
+    "files": [
+      "_outro/_outro_librassepeixe61f1_0001.npy"
+    ],
+    "segments": [
+      [
+        0.3670333333333333,
+        2.168833333333333
+      ]
+    ]
+  },
+  "_outro/librasse_piaui.mp4": {
+    "hash": "9b78e8caaddc939c",
+    "files": [
+      "_outro/_outro_librassepiauib955_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        4.971633333333333
+      ]
+    ]
+  },
+  "_outro/librasse_porta.mp4": {
+    "hash": "ed71e4cf98dcdae7",
+    "files": [
+      "_outro/_outro_librasseportadb26_0001.npy",
+      "_outro/_outro_librasseportadb26_0002.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        2.0353666666666665
+      ],
+      [
+        2.2689333333333335,
+        5.638966666666667
+      ]
+    ]
+  },
+  "_outro/librasse_praia.mp4": {
+    "hash": "0b577a6680852281",
+    "files": [
+      "_outro/_outro_librassepraia95a8_0001.npy",
+      "_outro/_outro_librassepraia95a8_0002.npy",
+      "_outro/_outro_librassepraia95a8_0003.npy"
+    ],
+    "segments": [
+      [
+        0.26693333333333336,
+        1.8018
+      ],
+      [
+        2.3690333333333333,
+        3.8705333333333334
+      ],
+      [
+        3.9039,
+        4.971633333333333
+      ]
+    ]
+  },
+  "_outro/librasse_preto.mp4": {
+    "hash": "9393b422438ac1e8",
+    "files": [
+      "_outro/_outro_librassepreto9a86_0001.npy"
+    ],
+    "segments": [
+      [
+        2.0687333333333333,
+        9.4094
+      ]
+    ]
+  },
+  "_outro/librasse_queijo.mp4": {
+    "hash": "a0bc78092e052ccb",
+    "files": [
+      "_outro/_outro_librassequeijo2e93_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        2.9029000000000003
+      ]
+    ]
+  },
+  "_outro/librasse_raiva.mp4": {
+    "hash": "c36de58beee61915",
+    "files": [
+      "_outro/_outro_librasseraivac442_0001.npy"
+    ],
+    "segments": [
+      [
+        0.23356666666666667,
+        2.769433333333333
+      ]
+    ]
+  },
+  "_outro/librasse_rondonia.mp4": {
+    "hash": "39a79b857603a654",
+    "files": [
+      "_outro/_outro_librasserondoniabec7_0001.npy"
+    ],
+    "segments": [
+      [
+        1.3346666666666667,
+        5.372033333333333
+      ]
+    ]
+  },
+  "_outro/librasse_roupa.mp4": {
+    "hash": "84371317856228c0",
+    "files": [
+      "_outro/_outro_librasseroupaa68e_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        0.9676333333333333
+      ]
+    ]
+  },
+  "_outro/librasse_roxo.mp4": {
+    "hash": "22885e85ec3c0b72",
+    "files": [
+      "_outro/_outro_librasseroxo3ae6_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        4.070733333333333
+      ]
+    ]
+  },
+  "_outro/librasse_santos.mp4": {
+    "hash": "1ed6d042ef9c25f5",
+    "files": [
+      "_outro/_outro_librassesantosd756_0001.npy"
+    ],
+    "segments": [
+      [
+        0.7340666666666666,
+        1.9019
+      ]
+    ]
+  },
+  "_outro/librasse_sao-paulo-futebol-clube.mp4": {
+    "hash": "48e62182819a5c7e",
+    "files": [
+      "_outro/_outro_librassesaopaulofutebolclube9c8c_0001.npy"
+    ],
+    "segments": [
+      [
+        0.3670333333333333,
+        3.6036
+      ]
+    ]
+  },
+  "_outro/librasse_sapato.mp4": {
+    "hash": "c85d11c5ee593915",
+    "files": [
+      "_outro/_outro_librassesapatof97f_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        2.3023000000000002
+      ]
+    ]
+  },
+  "_outro/librasse_sonhar.mp4": {
+    "hash": "b29ef0e7705ec94d",
+    "files": [
+      "_outro/_outro_librassesonhar358e_0001.npy"
+    ],
+    "segments": [
+      [
+        0.5672333333333334,
+        3.8705333333333334
+      ]
+    ]
+  },
+  "_outro/librasse_sorvete.mp4": {
+    "hash": "5660a8122d66b985",
+    "files": [
+      "_outro/_outro_librassesorvetebaae_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        3.2032000000000003
+      ]
+    ]
+  },
+  "_outro/librasse_suco.mp4": {
+    "hash": "f8e487da2aebbda8",
+    "files": [
+      "_outro/_outro_librassesucof779_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        4.537866666666667
+      ]
+    ]
+  },
+  "_outro/librasse_surpresa.mp4": {
+    "hash": "f4fcad2dffbe9b35",
+    "files": [
+      "_outro/_outro_librassesurpresa3d74_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        2.7027
+      ]
+    ]
+  },
+  "_outro/librasse_tartaruga.mp4": {
+    "hash": "28fbdd750799a801",
+    "files": [
+      "_outro/_outro_librassetartaruga5f57_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13346666666666668,
+        3.5702333333333334
+      ]
+    ]
+  },
+  "_outro/librasse_teatro.mp4": {
+    "hash": "253c47f3b0d2f940",
+    "files": [
+      "_outro/_outro_librasseteatroc3ca_0001.npy",
+      "_outro/_outro_librasseteatroc3ca_0002.npy",
+      "_outro/_outro_librasseteatroc3ca_0003.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        3.370033333333333
+      ],
+      [
+        3.6703333333333332,
+        4.2042
+      ],
+      [
+        5.438766666666667,
+        8.174833333333334
+      ]
+    ]
+  },
+  "_outro/librasse_vasco.mp4": {
+    "hash": "405d4bf4fb76c7ba",
+    "files": [
+      "_outro/_outro_librassevascoe5de_0001.npy"
+    ],
+    "segments": [
+      [
+        1.7017,
+        2.9029000000000003
+      ]
+    ]
+  },
+  "_outro/librasse_verde.mp4": {
+    "hash": "0e59296552c75ef2",
+    "files": [
+      "_outro/_outro_librasseverde215e_0001.npy",
+      "_outro/_outro_librasseverde215e_0002.npy"
+    ],
+    "segments": [
+      [
+        4.337666666666666,
+        6.973633333333334
+      ],
+      [
+        8.375033333333333,
+        13.5135
+      ]
+    ]
+  },
+  "_outro/librasse_vergonha.mp4": {
+    "hash": "f5f9f9719fe427e7",
+    "files": [
+      "_outro/_outro_librassevergonha48c9_0001.npy"
+    ],
+    "segments": [
+      [
+        0.20020000000000002,
+        5.9059
+      ]
+    ]
+  },
+  "_outro/librasse_vermelho.mp4": {
+    "hash": "0b992cdcddafe515",
+    "files": [
+      "_outro/_outro_librassevermelhoa38d_0001.npy"
+    ],
+    "segments": [
+      [
+        0.7674333333333333,
+        9.1091
+      ]
+    ]
+  }
+}
