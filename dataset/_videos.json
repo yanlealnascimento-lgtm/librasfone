@@ -505,7 +505,7 @@
     ]
   },
   "_outro/librasse_abelha.mp4": {
-    "hash": "32ce28804d7cfde1",
+    "hash": "1d114bca7317d9aa",
     "files": [
       "_outro/_outro_librasseabelha94b2_0001.npy"
     ],
@@ -517,7 +517,7 @@
     ]
   },
   "_outro/librasse_alagoas.mp4": {
-    "hash": "2e1afe338547c7e8",
+    "hash": "40828e45d771f167",
     "files": [
       "_outro/_outro_librassealagoas334a_0001.npy"
     ],
@@ -529,19 +529,19 @@
     ]
   },
   "_outro/librasse_alegre.mp4": {
-    "hash": "a73380f92a83fe6b",
+    "hash": "a00538fd011b371f",
     "files": [
       "_outro/_outro_librassealegre8406_0001.npy"
     ],
     "segments": [
       [
-        0.16683333333333333,
+        0.13346666666666668,
         3.636966666666667
       ]
     ]
   },
   "_outro/librasse_amapa.mp4": {
-    "hash": "f56905a4d0ecabc5",
+    "hash": "a4fe7870453a6040",
     "files": [
       "_outro/_outro_librasseamapa325d_0001.npy"
     ],
@@ -553,7 +553,7 @@
     ]
   },
   "_outro/librasse_amarelo.mp4": {
-    "hash": "dd20f5352ed5fada",
+    "hash": "1b103bf575f0234f",
     "files": [
       "_outro/_outro_librasseamarelod562_0001.npy"
     ],
@@ -1864,6 +1864,716 @@
       [
         0.7674333333333333,
         9.1091
+      ]
+    ]
+  },
+  "agora/colega1.mp4": {
+    "hash": "29a581765147b926",
+    "files": [
+      "agora/agora_colega1dc0e_0001.npy"
+    ],
+    "segments": [
+      [
+        0.23333333333333334,
+        3.2
+      ]
+    ]
+  },
+  "certo/colega1.mp4": {
+    "hash": "bc32cee538c65d6c",
+    "files": [
+      "certo/certo_colega1cfc8_0001.npy"
+    ],
+    "segments": [
+      [
+        0.5333333333333333,
+        1.5
+      ]
+    ]
+  },
+  "como/colega1.mp4": {
+    "hash": "9543cb3a01b0c815",
+    "files": [
+      "como/como_colega129d3_0001.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.7333333333333334
+      ]
+    ]
+  },
+  "como/colega2.mp4": {
+    "hash": "5ea34c66c42c0b99",
+    "files": [
+      "como/como_colega215d9_0001.npy",
+      "como/como_colega215d9_0002.npy",
+      "como/como_colega215d9_0003.npy",
+      "como/como_colega215d9_0004.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ],
+      [
+        0.7333333333333333,
+        2.2333333333333334
+      ],
+      [
+        1.4666666666666666,
+        2.966666666666667
+      ],
+      [
+        2.2,
+        3.7
+      ]
+    ]
+  },
+  "como/colega3.mp4": {
+    "hash": "868f2d33f9d98542",
+    "files": [
+      "como/como_colega32eae_0001.npy"
+    ],
+    "segments": [
+      [
+        0.4,
+        3.0
+      ]
+    ]
+  },
+  "depois/colega1.mp4": {
+    "hash": "df4c3e3bec31fe79",
+    "files": [
+      "depois/depois_colega1c123_0001.npy"
+    ],
+    "segments": [
+      [
+        0.23333333333333334,
+        2.6666666666666665
+      ]
+    ]
+  },
+  "entender/colega1.mp4": {
+    "hash": "38c8f4cffae33ca5",
+    "files": [
+      "entender/entender_colega1f177_0001.npy",
+      "entender/entender_colega1f177_0002.npy",
+      "entender/entender_colega1f177_0003.npy",
+      "entender/entender_colega1f177_0004.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ],
+      [
+        0.7333333333333333,
+        2.2333333333333334
+      ],
+      [
+        1.4666666666666666,
+        2.966666666666667
+      ],
+      [
+        2.2,
+        3.7
+      ]
+    ]
+  },
+  "errado/colega1.mp4": {
+    "hash": "aa497875e6916b8a",
+    "files": [
+      "errado/errado_colega1b4c5_0001.npy"
+    ],
+    "segments": [
+      [
+        0.7333333333333333,
+        3.1333333333333333
+      ]
+    ]
+  },
+  "esperar/colega1.mp4": {
+    "hash": "5310fb3dad67c6a7",
+    "files": [
+      "esperar/esperar_colega18f36_0001.npy"
+    ],
+    "segments": [
+      [
+        0.5338333333333334,
+        2.569072916666667
+      ]
+    ]
+  },
+  "eu/colega1.mp4": {
+    "hash": "091f61e115830048",
+    "files": [
+      "eu/eu_colega18f70_0001.npy"
+    ],
+    "segments": [
+      [
+        0.6,
+        1.9
+      ]
+    ]
+  },
+  "eu/colega2.mp4": {
+    "hash": "f5b790164c8b3e81",
+    "files": [
+      "eu/eu_colega2bcf6_0001.npy"
+    ],
+    "segments": [
+      [
+        0.6666666666666666,
+        3.566666666666667
+      ]
+    ]
+  },
+  "eu/colega3.mp4": {
+    "hash": "b044a737cf1024a0",
+    "files": [
+      "eu/eu_colega3b0bf_0001.npy"
+    ],
+    "segments": [
+      [
+        0.03333333333333333,
+        1.5333333333333334
+      ]
+    ]
+  },
+  "nao/colega1.mp4": {
+    "hash": "71eed08223f4adfd",
+    "files": [
+      "nao/nao_colega18486_0001.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ]
+    ]
+  },
+  "nao/colega2.mp4": {
+    "hash": "129055e1e18d5b79",
+    "files": [
+      "nao/nao_colega28b57_0001.npy"
+    ],
+    "segments": [
+      [
+        1.0,
+        3.6666666666666665
+      ]
+    ]
+  },
+  "nao_entendi/colega1.mp4": {
+    "hash": "b98f19deab7400b6",
+    "files": [
+      "nao_entendi/nao_entendi_colega12757_0001.npy",
+      "nao_entendi/nao_entendi_colega12757_0002.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ],
+      [
+        0.7333333333333333,
+        2.2333333333333334
+      ]
+    ]
+  },
+  "nao_pode/colega1.mp4": {
+    "hash": "65c0edd5215dad43",
+    "files": [
+      "nao_pode/nao_pode_colega163b6_0001.npy"
+    ],
+    "segments": [
+      [
+        0.16666666666666666,
+        1.7
+      ]
+    ]
+  },
+  "nome/colega1.mp4": {
+    "hash": "d3892609d0a34347",
+    "files": [
+      "nome/nome_colega1358b_0001.npy",
+      "nome/nome_colega1358b_0002.npy",
+      "nome/nome_colega1358b_0003.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ],
+      [
+        0.7333333333333333,
+        2.2333333333333334
+      ],
+      [
+        1.4666666666666666,
+        2.966666666666667
+      ]
+    ]
+  },
+  "nome/colega2.mp4": {
+    "hash": "83fcc964469646e3",
+    "files": [
+      "nome/nome_colega2fd06_0001.npy"
+    ],
+    "segments": [
+      [
+        1.3333333333333333,
+        3.566666666666667
+      ]
+    ]
+  },
+  "o_que/colega1.mp4": {
+    "hash": "691d60b068ae8287",
+    "files": [
+      "o_que/o_que_colega1fc6b_0001.npy"
+    ],
+    "segments": [
+      [
+        0.2,
+        1.5
+      ]
+    ]
+  },
+  "o_que/colega2.mp4": {
+    "hash": "5239d51f899a65b9",
+    "files": [
+      "o_que/o_que_colega210b9_0001.npy"
+    ],
+    "segments": [
+      [
+        0.13333333333333333,
+        1.5333333333333334
+      ]
+    ]
+  },
+  "obrigado/colega1.mp4": {
+    "hash": "0c47ad43813f7cb8",
+    "files": [
+      "obrigado/obrigado_colega1dc9a_0001.npy",
+      "obrigado/obrigado_colega1dc9a_0002.npy",
+      "obrigado/obrigado_colega1dc9a_0003.npy",
+      "obrigado/obrigado_colega1dc9a_0004.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ],
+      [
+        0.7333333333333333,
+        2.2333333333333334
+      ],
+      [
+        1.4666666666666666,
+        2.966666666666667
+      ],
+      [
+        2.2,
+        3.7
+      ]
+    ]
+  },
+  "onde/colega1.mp4": {
+    "hash": "73abc95bc7ce29d9",
+    "files": [
+      "onde/onde_colega17d63_0001.npy",
+      "onde/onde_colega17d63_0002.npy",
+      "onde/onde_colega17d63_0003.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ],
+      [
+        0.7333333333333333,
+        2.2333333333333334
+      ],
+      [
+        1.4666666666666666,
+        2.966666666666667
+      ]
+    ]
+  },
+  "onde/colega2.mp4": {
+    "hash": "78cedad81c5d7102",
+    "files": [
+      "onde/onde_colega25dae_0001.npy"
+    ],
+    "segments": [
+      [
+        0.6666666666666666,
+        2.9
+      ]
+    ]
+  },
+  "ouvir/colega1.mp4": {
+    "hash": "39ae540ba0075931",
+    "files": [
+      "ouvir/ouvir_colega1823c_0001.npy"
+    ],
+    "segments": [
+      [
+        0.3003,
+        2.2689333333333335
+      ]
+    ]
+  },
+  "pergunta/colega1.mp4": {
+    "hash": "af30c44fddcf3c07",
+    "files": [
+      "pergunta/pergunta_colega1484b_0001.npy"
+    ],
+    "segments": [
+      [
+        0.36666666666666664,
+        2.5
+      ]
+    ]
+  },
+  "pode/colega1.mp4": {
+    "hash": "5cd315160e54ec03",
+    "files": [
+      "pode/pode_colega1794b_0001.npy"
+    ],
+    "segments": [
+      [
+        0.43333333333333335,
+        2.9
+      ]
+    ]
+  },
+  "pode/colega2.mp4": {
+    "hash": "d9ae46898037c3b9",
+    "files": [
+      "pode/pode_colega2e262_0001.npy"
+    ],
+    "segments": [
+      [
+        0.03333333333333333,
+        1.3333333333333333
+      ]
+    ]
+  },
+  "por_favor/colega1.mp4": {
+    "hash": "c4ca71bb8f310fdc",
+    "files": [
+      "por_favor/por_favor_colega12682_0001.npy"
+    ],
+    "segments": [
+      [
+        0.06666666666666667,
+        2.5
+      ]
+    ]
+  },
+  "por_favor/colega2.mp4": {
+    "hash": "a3971744f57a08bc",
+    "files": [
+      "por_favor/por_favor_colega202da_0001.npy"
+    ],
+    "segments": [
+      [
+        0.5,
+        1.9
+      ]
+    ]
+  },
+  "preciso/colega1.mp4": {
+    "hash": "2e66007a825c2d31",
+    "files": [
+      "preciso/preciso_colega1994b_0001.npy"
+    ],
+    "segments": [
+      [
+        0.5,
+        3.4
+      ]
+    ]
+  },
+  "qual/colega1.mp4": {
+    "hash": "73e81b3367d09a54",
+    "files": [
+      "qual/qual_colega13040_0001.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.8666666666666667
+      ]
+    ]
+  },
+  "qual/colega2.mp4": {
+    "hash": "f4522d0fe4f43588",
+    "files": [
+      "qual/qual_colega2f61f_0001.npy"
+    ],
+    "segments": [
+      [
+        0.4,
+        1.4333333333333333
+      ]
+    ]
+  },
+  "quando/colega1.mp4": {
+    "hash": "9697dd65cd144ba8",
+    "files": [
+      "quando/quando_colega16058_0001.npy",
+      "quando/quando_colega16058_0002.npy",
+      "quando/quando_colega16058_0003.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ],
+      [
+        0.7333333333333333,
+        2.2333333333333334
+      ],
+      [
+        1.4666666666666666,
+        2.966666666666667
+      ]
+    ]
+  },
+  "quando/colega2.mp4": {
+    "hash": "a6e878ffef7b1acb",
+    "files": [
+      "quando/quando_colega2f145_0001.npy"
+    ],
+    "segments": [
+      [
+        1.9333333333333333,
+        4.933333333333334
+      ]
+    ]
+  },
+  "quem/colega1.mp4": {
+    "hash": "1423ecc6d316e229",
+    "files": [
+      "quem/quem_colega10f72_0001.npy",
+      "quem/quem_colega10f72_0002.npy",
+      "quem/quem_colega10f72_0003.npy",
+      "quem/quem_colega10f72_0004.npy",
+      "quem/quem_colega10f72_0005.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ],
+      [
+        0.7333333333333333,
+        2.2333333333333334
+      ],
+      [
+        1.4666666666666666,
+        2.966666666666667
+      ],
+      [
+        2.2,
+        3.7
+      ],
+      [
+        2.933333333333333,
+        4.433333333333334
+      ]
+    ]
+  },
+  "quero/colega1.mp4": {
+    "hash": "31ed174760ff1572",
+    "files": [
+      "quero/quero_colega164a9_0001.npy",
+      "quero/quero_colega164a9_0002.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ],
+      [
+        0.7333333333333333,
+        2.2333333333333334
+      ]
+    ]
+  },
+  "quero/colega2.mp4": {
+    "hash": "7075fce790133dc4",
+    "files": [
+      "quero/quero_colega2c4be_0001.npy"
+    ],
+    "segments": [
+      [
+        0.5666666666666667,
+        2.1333333333333333
+      ]
+    ]
+  },
+  "repetir/colega1.mp4": {
+    "hash": "ef9e7afa6e48a6f6",
+    "files": [
+      "repetir/repetir_colega170a0_0001.npy",
+      "repetir/repetir_colega170a0_0002.npy",
+      "repetir/repetir_colega170a0_0003.npy",
+      "repetir/repetir_colega170a0_0004.npy",
+      "repetir/repetir_colega170a0_0005.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ],
+      [
+        0.7333333333333333,
+        2.2333333333333334
+      ],
+      [
+        1.4666666666666666,
+        2.966666666666667
+      ],
+      [
+        2.2,
+        3.7
+      ],
+      [
+        2.933333333333333,
+        4.433333333333334
+      ]
+    ]
+  },
+  "resposta/colega1.mp4": {
+    "hash": "55d724eb9273c136",
+    "files": [
+      "resposta/resposta_colega1c0fb_0001.npy",
+      "resposta/resposta_colega1c0fb_0002.npy",
+      "resposta/resposta_colega1c0fb_0003.npy",
+      "resposta/resposta_colega1c0fb_0004.npy",
+      "resposta/resposta_colega1c0fb_0005.npy",
+      "resposta/resposta_colega1c0fb_0006.npy",
+      "resposta/resposta_colega1c0fb_0007.npy",
+      "resposta/resposta_colega1c0fb_0008.npy",
+      "resposta/resposta_colega1c0fb_0009.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ],
+      [
+        0.7333333333333333,
+        2.2333333333333334
+      ],
+      [
+        1.4666666666666666,
+        2.966666666666667
+      ],
+      [
+        2.2,
+        3.7
+      ],
+      [
+        2.933333333333333,
+        4.433333333333334
+      ],
+      [
+        3.6666666666666665,
+        5.166666666666667
+      ],
+      [
+        4.4,
+        5.9
+      ],
+      [
+        5.133333333333334,
+        6.633333333333334
+      ],
+      [
+        5.866666666666666,
+        7.366666666666666
+      ]
+    ]
+  },
+  "resposta/colega2.mp4": {
+    "hash": "b6fb344bdf6347fa",
+    "files": [
+      "resposta/resposta_colega2ec7d_0001.npy"
+    ],
+    "segments": [
+      [
+        1.5666666666666667,
+        3.6666666666666665
+      ]
+    ]
+  },
+  "sim/colega1.mp4": {
+    "hash": "357e50ed42158184",
+    "files": [
+      "sim/sim_colega10cd0_0001.npy",
+      "sim/sim_colega10cd0_0002.npy"
+    ],
+    "segments": [
+      [
+        0.0,
+        1.5
+      ],
+      [
+        0.7333333333333333,
+        2.2333333333333334
+      ]
+    ]
+  },
+  "sim/colega2.mp4": {
+    "hash": "c55c4455434f4de8",
+    "files": [
+      "sim/sim_colega248b5_0001.npy"
+    ],
+    "segments": [
+      [
+        1.4,
+        3.8666666666666667
+      ]
+    ]
+  },
+  "voce/colega1.mp4": {
+    "hash": "4f4708d42cd0c351",
+    "files": [
+      "voce/voce_colega12302_0001.npy"
+    ],
+    "segments": [
+      [
+        0.26666666666666666,
+        1.8
+      ]
+    ]
+  },
+  "voce/colega2.mp4": {
+    "hash": "2e86f13cb4afc918",
+    "files": [
+      "voce/voce_colega25e7d_0001.npy"
+    ],
+    "segments": [
+      [
+        0.03333333333333333,
+        1.5333333333333334
+      ]
+    ]
+  },
+  "voce/colega3.mp4": {
+    "hash": "aa00acdae98b446e",
+    "files": [
+      "voce/voce_colega33dca_0001.npy"
+    ],
+    "segments": [
+      [
+        1.5333333333333334,
+        4.233333333333333
       ]
     ]
   }
