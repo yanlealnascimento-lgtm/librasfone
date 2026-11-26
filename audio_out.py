@@ -1,8 +1,8 @@
 import collections
-from dataclasses import dataclass, field
 import queue
 import threading
 import time
+from dataclasses import dataclass, field
 
 import numpy as np
 

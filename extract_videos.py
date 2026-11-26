@@ -1,9 +1,9 @@
 import argparse
-from contextlib import contextmanager
 import hashlib
 import json
 import re
 import sys
+from contextlib import contextmanager
 from pathlib import Path
 
 import cv2

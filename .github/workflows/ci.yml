@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  testes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Os testes cobrem as funções puras do núcleo (landmarks, features,
+      # segmenter, augment, recognition, tts, medicao) e só precisam de NumPy.
+      # A pilha completa (mediapipe, opencv, sounddevice, pyttsx3) exige
+      # bibliotecas de sistema e hardware de câmera/áudio, então não entra no CI.
+      - name: Instala as dependências dos testes
+        run: pip install numpy pytest ruff
+
+      - name: Lint
+        run: ruff check .
+
+      - name: Testes
+        run: pytest

@@ -1,0 +1,23 @@
+[project]
+name = "librasfone"
+version = "1.0.0"
+description = "Tradutor de sinais isolados da Libras em tempo real para videochamadas"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+# Permite que os testes importem os módulos do projeto (features, segmenter...)
+# sem instalar o projeto como pacote.
+pythonpath = [".", "tests"]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.lint]
+# E/F: erros e pyflakes; I: ordena imports; UP: moderniza sintaxe.
+select = ["E", "F", "I", "UP"]
+# E741: nomes curtos (l, i) em laços numéricos; E501: largura de linha fica a
+# cargo do formatador, não quebra o build.
+ignore = ["E741", "E501"]
