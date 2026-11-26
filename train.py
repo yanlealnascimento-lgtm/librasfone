@@ -145,7 +145,7 @@ def accuracy_report(model, samples, labels, cfg, rng, copies=20, title=""):
     _print_accuracy(np.array(y), pred, title)
 
 
-def leave_one_source_out(samples, labels, sources, seed, per_class):
+def leave_one_source_out(samples, labels, sources, seed, per_class, signers_available):
     sources_by_label = defaultdict(set)
     for label, source in zip(labels, sources):
         sources_by_label[label].add(source)
@@ -172,7 +172,16 @@ def leave_one_source_out(samples, labels, sources, seed, per_class):
         hits += ok
         total += len(test_idx)
         print(f"  sem '{src}': acertou {ok}/{len(test_idx)}")
-    print(f"Teste deixando uma fonte de fora: {hits / total * 100:.1f}% ({hits}/{total})")
+    rotulo = "por sinalizador" if signers_available else "por fonte do arquivo"
+    print(f"Teste deixando uma fonte de fora ({rotulo}): {hits / total * 100:.1f}% ({hits}/{total})")
+    if not signers_available:
+        print(
+            "\n  *** ATENÇÃO: dataset/_sinalizadores.json ausente. As 'fontes' foram\n"
+            "  inferidas do nome do arquivo, NÃO da pessoa que sinaliza. Este número\n"
+            "  mede generalização entre ARQUIVOS, não entre PESSOAS, e NÃO deve ser\n"
+            "  reportado no TCC como generalização por sinalizador. Gere o\n"
+            "  _sinalizadores.json (ou rode com --exigir-sinalizadores) antes de citá-lo. ***"
+        )
 
 
 def _argument_parser() -> argparse.ArgumentParser:
@@ -182,6 +191,9 @@ def _argument_parser() -> argparse.ArgumentParser:
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--sem-teste-fonte", action="store_true",
                         help="pula o teste deixando uma fonte de fora (mais rápido)")
+    parser.add_argument("--exigir-sinalizadores", action="store_true",
+                        help="exige dataset/_sinalizadores.json para o teste de generalização; "
+                             "recusa treinar se o mapa de sinalizadores não existir")
     return parser
 
 
@@ -234,9 +246,15 @@ def main() -> int:
     rng = np.random.default_rng(args.seed + 1)
     accuracy_report(model, samples, labels, NORMAL, rng, title="Variações normais")
     accuracy_report(model, samples, labels, STRONG, rng, title="Variações fortes")
+    signers_available = SIGNERS_FILE.exists() and MANIFEST_FILE.exists()
+    if args.exigir_sinalizadores and not signers_available:
+        print("\nErro: --exigir-sinalizadores foi pedido, mas falta dataset/_sinalizadores.json "
+              "(ou _videos.json).", file=sys.stderr)
+        print("O teste de generalização por sinalizador não pode ser feito sem esse mapa.", file=sys.stderr)
+        return 1
     if not args.sem_teste_fonte:
         print()
-        leave_one_source_out(samples, labels, sources, args.seed, args.por_palavra)
+        leave_one_source_out(samples, labels, sources, args.seed, args.por_palavra, signers_available)
 
     _save_model(model, counts)
     print(f"\nModelo salvo em {MODEL_PATH} ({MODEL_PATH.stat().st_size / 1e6:.1f} MB)")
